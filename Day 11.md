@@ -94,6 +94,9 @@ Open up jQuery - Short Version presentation
 HW
 ---------------------------------------
 
+Nice work today, all! Your sites are looking good, and it's great to see you guys pushing yourselves. Keep it up, y'all!
+
+
 1. **Refine designs**
 
 	Pick your favorite direction, or at least your favorite elements from the comps you brought today, and finish up your designs. You can always make small changes later, but the more you get done now, the better.
@@ -107,4 +110,3 @@ HW
 	I don't care what you do, but do something fun. Try to use at least two events (eg. hover, click), and a couple animations (eg. fadeIn, slideDown). Post a link and a very brief description of what you did to the blog!
 	
 	
-

@@ -9,6 +9,8 @@ ART 341 - Day 13
 CLASS
 ---------------------------------------
 
+### *NO CLASS - VETERAN'S DAY*
+
 ### Work Session
 
 

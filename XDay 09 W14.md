@@ -1,4 +1,4 @@
-ART 341 - Day 9
+ART 341 - Day 9 - W14
 =======================
 
 1. Project 1 Crits

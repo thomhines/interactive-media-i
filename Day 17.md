@@ -39,10 +39,18 @@ http://web.pdx.edu/~thines/
 
 
 
-### Project 2 Presentations
+### jQuery Plugins Demos
+
+- FlexSlider
+- LightBox
 
 
-### Portfolio Discussion
+### Talk about Designs in Groups
+
+
+
+
+###### Portfolio Discussion
 - What are the most important features of a good portfolio site?
 - How can you showcase the work without upstaging it?
 - Did you find any sites that used color in a convincing way?
@@ -51,7 +59,6 @@ http://web.pdx.edu/~thines/
 
 
 
-### Work Session
 
 
 
@@ -65,8 +72,14 @@ HW
 	If you don't have one already, create a new index.html file and put it in your public_html folder. Add all of the necessary components for it to be a working, valid site (`<head>`, `<body>`, etc.), and create links to each of the projects you've worked on over the term. If you want, you can add web fonts or other styles to this sheet to make it a little more pleasing to the eyes. Mine looks like [this](http://web.pdx.edu/~thines/). 
 
 
-2. **Design Comps**
+2. **Finish Design and Annotated Comps**
 
 	We're short on time, so do what you can to try some things out. The more the better. Then, pick your best direction and refine it til it's perfect. Post your research and experiments, along with your finished comps, to the blog.
+
+3. **HTML/CSS**
+
+	Get your HTML *done* and move on to CSS by next class! We only have two class sessions left, so get through your code as quickly as you can!
+
+
 
 

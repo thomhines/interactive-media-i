@@ -26,13 +26,12 @@ Use this [codepen](http://codepen.io/thomhines/pen/aqfvJ)
 
 - How do we add CSS to our HTML?
 - How would we change our paragraphs to helvetica?
-- How would we make it green?
-- How would we give it a border on top?
+	- How would we give them more leading?
+	- How could we add more space between them?
 - What if we only wanted to style the first paragraph?
+	- How would we make it green?
+	- How would we give it a border on top?
 - How can we make the first H1 tag blue? (by adding a class OR styling `header h1`)
-
-
-### Let Alex explain how to use selectors with class names better
 
 
 ### Discuss HW
@@ -48,6 +47,15 @@ Use this [codepen](http://codepen.io/thomhines/pen/aqfvJ)
 			- [CSS Validator](http://jigsaw.w3.org/css-validator/)
 		- Coda
 		
+
+
+### Making HTML from a Comp
+
+Now how might we go backwards to make this happen?
+
+Load non-annotated version of image to create some HTML
+
+
 
 
 
@@ -138,6 +146,10 @@ Open up CSS Layout Presentation
 
 HW
 ---------------------------------------
+
+Nice job keeping up today, class! That was (probably) the last three-hour presentation of the term. From now on, it will be much more about looking at your designs, working on specific skills/tools, and a lot of coding. You guys did a great job following along, you asked great questions, and NO TEARS! Like I've said before, it gets easier as we go along, so the worst is always behind us.
+
+For the weekend, here are the things I want you to do:
 
 1. **Duplicate Multi-Column Website**
 

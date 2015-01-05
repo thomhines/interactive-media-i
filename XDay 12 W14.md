@@ -1,4 +1,4 @@
-ART 341 - Day 11
+ART 341 - Day 11 - W14
 =======================================
 
 1. Project 2 Discussions

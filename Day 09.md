@@ -32,10 +32,16 @@ HW
 	
 	I'd like you to make a brief post in WordPress that goes over your thoughts on Project 1, how you feel you did, what you like about your project, what you would have done differently, the aspect of your site you're most proud of, and whatever else you would like to write.
 
+
+2. **Website Review**
+	
+	Find one website that looks good but has bad usability, and one that has good usability but looks bad. Write 5 reasons why the ugly site is usable and 5 reasons why the pretty site sucks. Post these, along with screenshots, to the blog.
+
+
 2. **Begin Research for Project 2**
 	
 	By next class you should have your local company picked out, and some of the resources you might use in your designs (eg. images, logos, the company's color palette, etc.). You should also find out if your company has a website already. If you don't have a place picked out, look at [this list](http://art341s13.wordpress.com/pdx-places/) that my former TA, Barrett, compiled. Post all of your research to WordPress.
 
 3. **Project 1 Site Launch List**
-	
+
 	If you didn't give it to me before you left class yesterday, please bring it with you to class tomorrow. I'm not going to grade your site until I have that.

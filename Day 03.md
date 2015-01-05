@@ -22,6 +22,7 @@ CLASS
 
 
 ### Quiz
+Use [CodePen](http://codepen.io/pen/)
 - What tag do we use to make a link? 
 	- How would we make a link to a page2.html?
 - What is the tag for making something italic? 
@@ -29,7 +30,7 @@ CLASS
 - What goes in the head section of an HTML document?
 - What goes in the body?
 - What is a tag attribute? 
-	- What are the two attributes we use for the <img> tag?
+	- What are the two attributes we use for the `img` tag?
 
 
 
@@ -43,17 +44,7 @@ CLASS
 
 
 ### CSS
-- What is it?
-- How do we implement it?
-- [CSS Zen Garden](http://csszengarden.com)
-
-#### Presentation
-
-
-
-#### Tips and Tricks
-- Validation services
-- Firebug
+Go through Presentation
 
 
 
@@ -98,6 +89,7 @@ Start with [Sketchboards](http://www.adaptivepath.com/ideas/sketchboards-discove
 
 
 ### Extra time?
+- [CSS Diner](http://flukeout.github.io/)
 - Hover states
 - Commenting (HTML & CSS)
 - [CSS Shortcuts](http://cssdog.com/css_shortcuts.html)
@@ -135,7 +127,8 @@ HW
 
 
 2. **MAKE WIREFRAMES** 	
-	I would like to see 3 SETS of wireframes from your site. Each wireframe set should include at least 2 pages (Home and Details pages), but I would be very excited to see extra iterations and thoughts on how individual details pages could differ from one item to the next. And here's a link to a PDF if you need more [sketchboards](http://teaching.thomhines.com/resources/sketchboard_multi.pdf).
+
+	I would like to see 3 SETS of wireframes from your site. Each wireframe set should include at least 2 pages (Home and Details pages), but I would be very excited to see extra iterations and thoughts on how individual details pages could differ from one item to the next. And here's a link to a PDF if you need more [sketchboards](http://teaching.thomhines.com/resources/sketchboard_multi.pdf). And don't forget to post these!
 
 
 3. **CONVERT THIS DESIGN COMP TO HTML/CSS**
@@ -146,7 +139,7 @@ HW
 
 
 4. ***!!!! EXTRA CREDIT !!!!***
-	
-	This is completely optional and not for a whole heck of a lot of points, but it's certainly worth the time. Complete the first four courses of the [Web Fundamentals](http://www.codecademy.com/tracks/web) track on Codecademy. In order to get credit for this, post a screenshot of the Web Fundamentals page (including your little picture and name at the top) to the blog. It should look something like this:
+
+	This is completely optional and not for a whole heck of a lot of points, but it's certainly worth the time (You have until next week to get this done). Complete the first four courses of the [Web Fundamentals](http://www.codecademy.com/tracks/web) track on Codecademy. In order to get credit for this, post a screenshot of the Web Fundamentals page (including your little picture and name at the top) to the blog. It should look something like this:
 	
 	*Include image of Codecadmy Example.png*
