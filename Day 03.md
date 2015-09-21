@@ -128,18 +128,16 @@ HW
 
 2. **MAKE WIREFRAMES** 	
 
-	I would like to see 3 SETS of wireframes from your site. Each wireframe set should include at least 2 pages (Home and Details pages), but I would be very excited to see extra iterations and thoughts on how individual details pages could differ from one item to the next. And here's a link to a PDF if you need more [sketchboards](http://teaching.thomhines.com/resources/sketchboard_multi.pdf). And don't forget to post these!
+	I would like to see 3 SETS of wireframes from your site. Each wireframe set should include at least 2 pages (Home and Details pages), but I would be very excited to see extra iterations and thoughts on how individual details pages could differ from one item to the next. And if you're not sure where to start, you can [check out what other people are doing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399). And don't forget to post these, too!
 
 
 3. **CONVERT THIS DESIGN COMP TO HTML/CSS**
 
-	Create HTML/CSS to mimic as closely as possible the image below. Try your best to keep your CSS clean. I realize this is your first time working with CSS, but the harder you work on it now, the faster it will become easy. And by the end of the term, the stuff we talked about today will be **RIDICULOUSLY EASY**. Start on it early so you can email me if you have any questions. All background images are from [Subtle Patterns](http://subtlepatterns.com/), but feel free to use any background patterns you'd like. Post the URL of your page as a link to the blog, along with a screenshot of your site in action!
+	Create HTML/CSS to mimic as closely as possible the image below. Try your best to keep your CSS clean. I realize this is your first time working with CSS, but the harder you work on it now, the faster it will become easy. And by the end of the term, the stuff we talked about today will be **RIDICULOUSLY EASY**. Start on it early so you can email me if you have any questions. All background images are from [Subtle Patterns](http://subtlepatterns.com/), but feel free to use any background patterns you'd like. Post the URL of your page to the blog, along with a screenshot of your site in action!
 	
 	*Include image of Class 3 Copy Comp.png*
 
 
 4. ***!!!! EXTRA CREDIT !!!!***
 
-	This is completely optional and not for a whole heck of a lot of points, but it's certainly worth the time (You have until next week to get this done). Complete the first four courses of the [Web Fundamentals](http://www.codecademy.com/tracks/web) track on Codecademy. In order to get credit for this, post a screenshot of the Web Fundamentals page (including your little picture and name at the top) to the blog. It should look something like this:
-	
-	*Include image of Codecadmy Example.png*
+	This is completely optional and not for a whole heck of a lot of points, but it's certainly worth the time (You have until next week to get this done). Complete the HTML Basics course in the Web Fundamentals track on Codecademy. In order to get credit for this, post a screenshot of the Web Fundamentals page (including your little picture at the top) to the blog after you're done.

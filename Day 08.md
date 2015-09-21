@@ -19,3 +19,7 @@ HW
 1. **FINISH IT!**
 
 	Honestly, nothing else needs to be said. You know what you have to do.
+
+2. **Back up your Site**
+
+	Again, just so you don't lose everything, back up your files. If the server goes down when we present next week, we'll still be able to look at your sites if you have your files tucked away safely on your computer.

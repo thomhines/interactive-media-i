@@ -50,7 +50,7 @@ CLASS
 		And here are a couple nice examples from a past section of this class:
 		- [Kristen Petsche](http://web.pdx.edu/~kpetsche/hw1/index.html)
 		- [Yumi Takeda](http://web.pdx.edu/~ytakeda/art341_h1/index.html)
-		- [Eric Langs'](http://web.pdx.edu/~elangs/ART341/narrative.html)
+		- [Eric Langs](http://web.pdx.edu/~elangs/ART341/narrative.html)
 	
 	- HTML Elements
 		- h1, h2, h3, p
@@ -62,7 +62,7 @@ CLASS
 HW
 ---------------------------------------
 
-1. **Install FTP and Sditing Software**
+1. **Install FTP and Text Editing Software**
 
 	Mac Folks: If you weren't able to get it done in class, download and install [Coda](http://panic.com/coda/). I will be teaching off of this app for the rest of the term, and it will make much more sense if we are all on the same page. Trust me, it's worth it.
 	
@@ -83,8 +83,12 @@ HW
 	- [How to Make Carne Asada](http://web.pdx.edu/~ytakeda/art341_h1/index.html)
 
 
-3. **Post to WordPress**
+3. **Print out Web Page**
+
+	Pick a site that has a large variety and hierarchy of content (eg. [cnn.com](http://www.cnn.com/), [ebay](http://www.ebay.com/), etc.), and print it out. You only need one letter-sized screenshot for our purposes, and black and white is totally fine.
+
+
+4. **Post to WordPress**
 
 	Post a screenshot of one page of your 5-page site and 1-2 sentences describing your site to WordPress. Every piece of homework is going to get posted to the blog, so this process will get to be very easy and familiar in no time.
-
 

@@ -25,6 +25,9 @@ CLASS
 - How do we get the divs to sit next to each other in a grid? (float)
 	- How do we get the border to sit around the divs? (clearfix)
 - What does absolute positioning do?
+	- How do we set the position of an absolutely positioned element? (top, left, bottom, right)
+	- Do we use margins? NO!
+	- Do we use top, left, bottom, right on relatively positioned elements? NO!
 - What's the difference between absolute and fixed positioning?
 - As a group, fix problems in some example code (HTML/CSS split screen)
 
@@ -40,6 +43,13 @@ CLASS
 		- **Use Firebug**
 		- **Show Validation services**
 
+
+### Good Website Design Research
+
+As a group, go over sites that students found and talk about what made some designs good and what appeals to them.
+
+
+
 ### Webfonts
 - [Google Web Fonts](https://www.google.com/fonts)
 
@@ -52,11 +62,11 @@ Split groups up into groups of 4-5 (probably 5). I'll speak one-on-one with stud
 
 Questions to think about when discussing:
 
-- What is consistent from one page to the next?
+- Does it feel like a cohesive system? What is consistent from one page to the next?
 - What is different on each page?
-- How does the style you are working with relate to the content?
-- How is the composition of the page? Hierarchy?
-- Is the nav clear and well-defined? Does every item on the page make sense?
+- How does the style of the design with relate to the content?
+- How is the composition of the page? Does it use white space effectively? Is there good hierarchy?
+- Does every item on the page make sense?
 
 
 

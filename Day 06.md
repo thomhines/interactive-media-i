@@ -18,6 +18,8 @@ CLASS
 
 ### Quiz
 
+- How do you use web fonts?
+
 
 ### HTML/CSS Extras
 Download New [HTML Template](http://teaching.thomhines.com/resources/html_template_v2.zip)
@@ -52,6 +54,8 @@ Download New [HTML Template](http://teaching.thomhines.com/resources/html_templa
 ### Annotated Comps
 Demonstrate the value of annotating comps and what to note: 
 
+Mention [xScope](http://xscopeapp.com/)
+
 1. First: fonts, sizes, margins, padding, colors, etc.
 2. Second: Pick which items are which tags
 3. Last: Layout possible divs and sections with names (.sidebar, .meta-info, etc.)
@@ -73,8 +77,10 @@ HW
 ---------------------------------------
 
 1. **Finish Annotated Comps**
-Finish marking up your printed out comps with the 1) text styles (e.g. font size, line height, color, paddings, margins, etc.), 2) labeling which pieces of content are going to be which elements (e.g. sub-headlines = h2), and sectioning off content into various divs (e.g. .sidebar, footer, .movie_info, etc.). Then take a photo or scan of your annotated comp and post it to the blog...
+
+	Finish marking up your printed out comps with the 1) text styles (e.g. font size, line height, color, paddings, margins, etc.), 2) labeling which pieces of content are going to be which elements (e.g. sub-headlines = h2), and sectioning off content into various divs (e.g. .sidebar, footer, .movie_info, etc.). Then take a photo or scan of your annotated comp and post it to the blog...
 
 
 2. **HTML & CSS**
-By next class, you should have the HTML done for all 5 of your pages. Again, nothing is fixed in stone, but it should be at a state where every piece of content in your comps are represented in your HTML file. Also, your CSS should be about 80% done. By this, I mean the general layout should be in place, and basic styles should be set. Your site should pretty closely resemble your design comps. After this stage, we can focus solely on refinement and making sure everything is perfect and complete.
+	
+	By next class, you should have the HTML done for all 5 of your pages. Again, nothing is fixed in stone, but it should be at a state where every piece of content in your comps are represented in your HTML file. Also, your CSS should be about 80% done. By this, I mean the general layout should be in place, and basic styles should be set. Your site should pretty closely resemble your design comps. After this stage, we can focus solely on refinement and making sure everything is perfect and complete.

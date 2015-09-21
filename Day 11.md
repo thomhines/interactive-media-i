@@ -15,31 +15,6 @@ PREP
 CLASS
 ---------------------------------------
 
-### Quiz
-Based on forms lecture and [Useful Ideas and Guidelines for Good Web Form Design](http://www.smashingmagazine.com/2011/06/27/useful-ideas-and-guidelines-for-good-web-form-design/)
-
-- What does validation mean when it comes to making HTML forms?
-- How do we get a keyboard that is optimized for typing in an email address in iOS? (type="email")
-- How do we put example text in a form field for the user to see? (placeholder="text")
-- What function do we use to save images in Photoshop?
-	- What image format would we use if we wanted transparency?
-- What is the easiest way to present a complex, multi-page PSD file? (Layer Comps)
-	- What do Layer Comps do?
-
-
-
-### Go over Reading
-- What were your favorite ideas/designs?
-- What did you learn about forms?
-- In what ways did these designers simplify the process for their users?
-- What do you think of the way they talked about validation?
-- What sort of things might your site's customers need?
-- What are some ideas form the reading that you liked?
-	- Including FAQ next to contact form on Tinkering Monkey
-	- Real-Time Validation (alert icons for good or bad inputs)
-	- Auto Credit Card Type detection (GitHub)
-	- Reasons for why the form is asking for personal info on Unlocking
-
 
 
 
@@ -54,7 +29,7 @@ Open up jQuery - Short Version presentation
 		http://coding.smashingmagazine.com/2012/05/31/50-jquery-function-demos-for-aspiring-web-developers/
 
 - Set up files
-	- Download template from blog
+	- Download [template](http://teaching.thomhines.com/resources/jquery_template_empty.zip) from blog ([completed version](http://teaching.thomhines.com/resources/jquery_template_complete.zip))
 	- add scripts.js
 	- link to scripts.js
 	- link to jQuery
@@ -107,6 +82,16 @@ Nice work today, all! Your sites are looking good, and it's great to see you guy
 
 3. **Play with jQuery**
 
-	I don't care what you do, but do something fun. Try to use at least two events (eg. hover, click), and a couple animations (eg. fadeIn, slideDown). Post a link and a very brief description of what you did to the blog!
+	I don't care what you do, but do something fun to the demo file we worked with in class today. Try to use at least two events (eg. hover, click), and a couple animations (eg. fadeIn, slideDown). Post a link and a very brief description of what you did to the blog! If you weren't in class, you can download the completed jQuery demo from the resources page and start from there.
+
+4. **Start HTML/CSS**
+
+	Next week will be mostly work sessions (with a couple small demos), so it's a very good idea to be started on your code! I would recommend having at least a couple of the pages' HTML finished and perhaps some of the CSS started. You'll want to be even further along if you want to use some jQuery in your site.
+
+5. **ExTrA CrEdiT!!!: jQuery Codecademy**
+
+	Just like with the HTML lessons, if you want this extra credit, you'll have to finish the first two lessons in the [jQuery](http://www.codecademy.com/en/tracks/jquery) track. This might be especially useful for those people who weren't in class today. Post a screenshot of the congratulations/confirmation message to get credit. You have until next Tuesday to get this done.
+
+
 	
 	

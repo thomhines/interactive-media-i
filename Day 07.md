@@ -52,4 +52,12 @@ With one-on-one help for students
 HW
 ---------------------------------------
 
+
+
+2. **Back up your Site**
+
+	Just in case, make sure to regularly download the files from the server onto your computer so that you don't have to start from scratch if the server goes down.
+
 1. **Keep working!**
+
+	We have one week to get these suckas done, so work hard! And remember, you have to complete this [checklist](http://teaching.thomhines.com/resources/Site%20Launch%20Checklist.pdf), print it out and turn it in the day of the critique!

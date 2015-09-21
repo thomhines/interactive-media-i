@@ -45,35 +45,25 @@ CLASS
 
 
 
+### jQuery Plugins Demo
 
-### Neat Trick Day
-- [Coda Plugins](http://panic.com/coda/plugins.php)
+Check out [Unheap](http://www.unheap.com/)
 
-	- CSSComb
-	- Emcoda
-	- PHP & Web Toolkit
-	- Hipster Ipsum
-	- [New Color Themes](http://justinhileman.info/coda-colors/)
+#### [Flexslider](http://www.woothemes.com/flexslider/) - ([Demo files](http://teaching.thomhines.com/resources/flexslider%20demo.zip))
 
-- Transitions
-	-webkit-transition: all 1s ease-in-out;
-	-moz-transition: all 1s ease-in-out;
-	-ms-transition: all 1s ease-in-out;
-	-o-transition: all 1s ease-in-out;
-	transition: all 1s ease-in-out;
+- Install jQuery
+- Download and install flexslider (css, js, fonts, images)
+- Add code to scripts.js
 
+		$('.flexslider').flexslider();
+	
+- Adjust settings 
+	- animation: 'slide'
+	- slideshowSpeed: 7000
+	- animationSpeed: 600
+	- randomize: true
 
-
-- Cursor
-- How to install jQuery plugins
-
-- Pointer Events
-- z-index
-- PHP Includes
-- Google Analytics
-
-
-### Work Session
+#### Lightbox
 
 
 
@@ -100,3 +90,9 @@ HW
 3. **3 Sets of LoFi Comps**
 
 	I want to see at least three distinct directions of designs, with a minimum of 2 pages for each direction. These pages can be whatever you want, so long as they represent your site as a whole. They don't have to be completely polished and perfect, but they should be enough to get another designer to understand what you're thinking. And don't forget to post these to WordPress!
+
+
+#### Useful Links
+- [Unheap](http://www.unheap.com/)
+- [Flexslider](http://www.woothemes.com/flexslider/)
+- [slimbox2](http://www.digitalia.be/software/slimbox2)

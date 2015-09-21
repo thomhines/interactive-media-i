@@ -32,7 +32,40 @@ Class
 ### Housekeeping
 - Have all students log into WP and update their user names
 - Install Chrome, because it's the best
+- Create .htaccess file and add this line to prevent Google from indexing sites:
+
+		Header set X-Robots-Tag "noindex, nofollow"
+
+
 - Questions?
+
+
+
+### More HTML
+
+Use keynote presentation for Day 2
+
+
+- Extra time?
+	- embed from youtube/vimeo
+	- header/footer/nav
+	- ul/ol
+	- tables
+
+Also worth mentioning:
+- [HTML Validator](http://validator.w3.org/)
+- Coda built-in validator!
+
+
+
+### Break
+
+
+### Making HTML from a Comp
+
+Students: Using the sites that people brought to class, have them annotate them.
+
+Me: Load non-annotated version of image to create some HTML
 
 
 
@@ -55,24 +88,8 @@ Class
 Let students start researching Project 1 (getting text content, images, etc.) while I debug problems with other students
 
 
-### Break
 
 
-
-### More HTML
-
-Use keynote presentation for Day 2
-
-
-- Extra time?
-	- embed from youtube/vimeo
-	- ul/ol
-	- header/footer/nav
-	- tables
-
-Also worth mentioning:
-- [HTML Validator](http://validator.w3.org/)
-- Coda built-in validator!
 
 
 
@@ -85,6 +102,12 @@ Also worth mentioning:
 
 HW
 ---------------------------------------
+
+1. Create .htaccess file and add this line to prevent Google from indexing sites:
+	
+		Header set X-Robots-Tag "noindex, nofollow"
+
+
 1. **Update Your 5-Page Narrative**
 
 	Update your 5-page linear narrative site to be valid HTML *(make sure it [validates](http://validator.w3.org/)!)*. This means you will need to add the proper tags in the <head> section, the <doctype> tag, and ensure that all of your tags are used correctly (including closing tags!). And don't forget to add the `alt` attribute to all of your images (eg. `<img src="funnypic.jpg" alt="a brief description of image">`). 
@@ -101,4 +124,4 @@ HW
 
 	Begin research on the subject for our first project. Again, the site you make should be about a "set" of four things. This could be anything from the four members of Led Zeppelin, to four contemporary painters, to your four favorite types of Japanese candies. They should all have something in common, but easy enough to tell apart. Like "[The Many Faces of Alan Rickman](http://themanyfacesof.com/alan-rickman/)", you want people to see a pattern, but still have a sense that there are important differences in style and content.
 
-	After you've picked a topic, start collecting images, text, and consider what you want to include as meta data about your subjects. **Post your content and images to the blog. *AND* send an email to art341f14-group@pdx.edu and let the rest of the class know what you plan to make your site about.** 
+	After you've picked a topic, start collecting images, text, and consider what you want to include as meta data about your subjects. **Post your content and images to the blog. *AND* send an email to art341w15-group@pdx.edu and let the rest of the class know what you plan to make your site about.** 

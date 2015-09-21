@@ -49,11 +49,6 @@ Use this [codepen](http://codepen.io/thomhines/pen/aqfvJ)
 		
 
 
-### Making HTML from a Comp
-
-Now how might we go backwards to make this happen?
-
-Load non-annotated version of image to create some HTML
 
 
 
