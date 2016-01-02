@@ -4,6 +4,8 @@ ART 341 Course Outline
 Week 1 - FTP & HTML
 ---------------------------------------
 ### Day 1
+- Syllabus
+- Tools
 - FTP 
 - HTML Basics
 	

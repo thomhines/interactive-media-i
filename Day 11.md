@@ -1,4 +1,4 @@
-ART 341 - Day 11
+Day 11
 =======================
 
 1. Discuss Forms Reading
@@ -15,7 +15,12 @@ PREP
 CLASS
 ---------------------------------------
 
+### Quiz
 
+- What is the tool that lets you save various states of a design, such as different pages or iterations, in Photoshop. (Layer Comps)
+- How does it work? (Turn on/off different layers to showcase different pages and save to a Layer Comp)
+- What are some of the tools that make working in Illustrator AMAZING? (Edit Colors, Symbols, Character/Paragraph styles, moving from wireframes to comps, etc)
+- Do sites have to be good looking to be usable? (Lead into discussion where you talk about what role aesthetics plays in usability)
 
 
 ### jQuery
@@ -48,6 +53,12 @@ Open up jQuery - Short Version presentation
 
 
 
+### Brackets Plugins
+- [jQuery Hints](https://github.com/Wikunia/brackets-jQuinter)
+- [Interactive Linter](https://github.com/MiguelCastillo/Brackets-InteractiveLinter) (for JS and CSS)
+
+
+
 ### BREAK
 
 ### In Small Groups:
@@ -69,7 +80,7 @@ Open up jQuery - Short Version presentation
 HW
 ---------------------------------------
 
-Nice work today, all! Your sites are looking good, and it's great to see you guys pushing yourselves. Keep it up, y'all!
+Nice work today! Tough demo, but you all made it out unscathed. Your designs are looking good, and it's great to see you guys pushing yourselves. Keep it up, y'all!
 
 
 1. **Refine designs**
@@ -95,3 +106,5 @@ Nice work today, all! Your sites are looking good, and it's great to see you guy
 
 	
 	
+#### Useful Links
+- [Unheap jQuery Plugins List](http://www.unheap.com/)

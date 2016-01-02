@@ -1,4 +1,4 @@
-ART 341 - Day 4
+Day 4
 =======================================
 
 1. Discuss HW - Make HTML/CSS from design comp
@@ -10,7 +10,7 @@ ART 341 - Day 4
 PREP
 ---------------------------------------
 - Prepare an HTML file on the server for doing quiz.
-- Post [multi-column template](http://teaching.thomhines.com/resources/2_col_html_template_empty.zip) and [completed version](http://teaching.thomhines.com/resources/2_col_html_template.zip)
+- Post [multi-column template](http://teaching.thomhines.com/resources/2_col_html_template.zip) and [completed version](http://teaching.thomhines.com/resources/2_col_html_template_complete.zip)
 - Load up links in browser
 - Load up CSS Layout keynote file
 - Post [CSS Layout Presentation](http://teaching.thomhines.com/resources/CSS%20Layout%20Presentation.pdf) to blog
@@ -100,7 +100,7 @@ Open up CSS Layout Presentation
 	- Add width and float to .sidebar
 	- then margin to .main 
 	- Clearfix for advanced. students
-- **Box-sizing: border-box**
+- **Box-sizing: border-box** ([Codepen Demo](http://codepen.io/thomhines/pen/zvwjoO/))
 	- Show how columns no longer fit when you add padding, border
 	- Add box-sizing and adjust values again
 	- Describe vendor prefixes
@@ -117,6 +117,11 @@ Open up CSS Layout Presentation
 
 
 
+### Brackets Plugins
+- [CSS Color Preview](https://github.com/cmgddd/Brackets-css-color-preview)
+- [Color Hints](https://github.com/konstantinkobs/brackets-colorHints)
+- [autoprefixer](https://github.com/mikaeljorhult/brackets-autoprefixer)
+
 
 ### Discuss Wireframes
 - Break into small groups, talk about wireframes. 20 min.
@@ -129,6 +134,7 @@ Open up CSS Layout Presentation
 
 
 #### Adv. Students
+- Web Fonts
 - Media Queries
 - CSS Transitions
 - LESS/SASS/Compass
@@ -148,7 +154,8 @@ For the weekend, here are the things I want you to do:
 
 1. **Duplicate Multi-Column Website**
 
-	Use this [template](http://teaching.thomhines.com/resources/class-4-copy-comp-layout.pdf), and try to replicate it in HTML/CSS. The styles don't have to be exact, but just do your best to make the overall layout match the one you're attempting to copy. Then, upload the site files for your version to the web server. Lastly, post a link and a screenshot to WordPress. 
+	Use the [multi-column template](http://teaching.thomhines.com/resources/2_col_html_template.zip) to recreate this [comp](http://teaching.thomhines.com/resources/class-4-copy-comp-layout.pdf) in HTML/CSS. The styles don't have to be exact, but just do your best to make the overall layout match the one you're attempting to copy. Then, upload the site files for your version to the web server. Lastly, post a link and a screenshot to WordPress. 
+
 	
 
 2. **Web Design Research**
@@ -159,3 +166,9 @@ For the weekend, here are the things I want you to do:
 3. **Design Comps**
 
 	I want to see at least **three (3)** unique and distinct directions of design here, with as much detail as you can get. You should be looking at layout, color, type, etc. Start to consider which [web fonts](http://www.google.com/fonts/) would work well in your designs. These three directions can all come from the same set of wireframes, or from a couple if you want still want to explore your underlying design decisions. You aren't obligated to, but consider making your designs to fit a screen that is 1024px wide (and make your Photoshop file as tall as you need to fit all your content). These, as with all homework, should be posted to the blog. 
+
+
+
+4. **Codecademy EXTRA CREDIT x 2!!!!***
+
+	One more chance for a paltry amount of extra credit. Complete the "CSS Selectors" and/or "CSS Positioning" courses in the [Web Fundamentals track on Codecademy](https://www.codecademy.com/learn/web), post a screenshot of the completed lesson(s)  to the blog, and then give a friend a high five.

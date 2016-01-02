@@ -1,5 +1,5 @@
 
-ART 341 - Day 10
+Day 10
 =======================
 
 1. Project 2 Discussions
@@ -11,8 +11,10 @@ CLASS
 ---------------------------------------
 
 ### Housekeeping
-Explain that all testing should be done in browsers, not in Preview mode of Coda
+Explain that all testing should be done in browsers, not in Preview mode of Coda or Live View in Brackets
 
+
+### Finish Project 1 Presentations
 
 
 ### Discuss Web Site Usability
@@ -22,10 +24,9 @@ Explain that all testing should be done in browsers, not in Preview mode of Coda
 
 
 
-### Coda Tips and Tricks
-- Interface
-- Plugins
-- Clips
+### Brackets Plugins
+- [Emmet](http://emmet.io/)
+- [SFTP Upload](https://github.com/bigeyex/brackets-sftp-upload)
 
 
 
@@ -64,8 +65,10 @@ Items to point out:
 
 
 ### Designing for the web in Illustrator
+[Speed Design w/ Illustrator](http://www.designsprint.net/)
+
 - Creating and resizing shapes quickly
-- 960 grid system
+- [1200px grid system](http://1200px.com/) - Also has template for Photoshop!
 - Select by Style
 - Edit > Edit Colors
 - Applying rounded corners, drop shadows, gradients, etc.
@@ -90,12 +93,17 @@ HW
 ---------------------------------------
 
 
-1. **3 Sets of Wireframes**
+1. **Moodboards**
 
-	Make three distinct directions in how you might want to lay out your pages. For now, you can do just two pages per wireframe set (6 frames total), but make sure that your ideas come through. If two frames isn't enough, write about your thoughts or do an extra frame or two until you've clearly communicated what you're thinking. 
+	No minimum or maximum number of elements, but this time when you're making a mood board, write notes for how each element in your mood board could contribute to your Project 2 designs. This could involve things like how another site uses texture, or how they crop their images, or how they set up their navigation, or the tone and character of the site. These might be less specific than fonts and color palettes, but make an effort to register *why* you think a particular design is inspirational.
 
 
-2. **3 Sets of Design Comps**
+2. **3 Sets of Wireframes**
+
+	Make three distinct directions in how you might want to lay out your pages. For now, you can do just two pages per wireframe set (6 wireframes total), but make sure that your ideas come through. If two frames isn't enough, write about your thoughts or do an extra frame or two until you've clearly communicated what you're thinking. Remember, these are for you, not me. Get as many ideas down as quickly as you can.
+
+
+3. **3 Sets of Design Comps**
 
 	Turn one or more of your wireframe directions into three different design directions. Again, at least two comps per direction. We are going to discuss this in groups next class, so be prepared to show and explain your concepts to your classmates and to me.
 
@@ -103,3 +111,6 @@ HW
 
 #### Useful Links
 - [Photoshop Etiquette](http://photoshopetiquette.com/)
+- [Setting up Photoshop for the web](http://davidmckinney.com/blog/2013/12/31/designing-iphone-apps-how-to-setup-photoshop) (Particularly the part about [color settings](http://davidmckinney.com/blog/2013/12/31/designing-iphone-apps-how-to-setup-photoshop#block-dcb0243066f19c3bd06b))
+- [Speed Design w/ Illustrator](http://www.designsprint.net/)
+- [1200px grid system](http://1200px.com/)

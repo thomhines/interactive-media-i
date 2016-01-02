@@ -14,13 +14,13 @@ CLASS
 ---------------------------------------
 
 
-### jQuery
+### Quiz
 
-Download empty jquery Demo version:
-
-- How to get jQuery set up
-- What it looks like
-- What lessons to follow on [codecademy](http://www.codecademy.com/en/tracks/jquery): Introducing jQuery and jQuery Functions
+- What is jQuery?
+- What does it do?
+- How can we make all of the p tags disappear?
+- How can we make only the p tag we clicked on disappear?
+- The thing *after* that p tag?
 
 
 ### Design to HTML demo
@@ -133,13 +133,17 @@ HW
 
 1. **Make HTML, Start CSS**
 
-	Using your annotated comps and the site template from our blog's Resources page, create your HTML. You can use placeholder text, but put in real text wherever possible. At this point, don't worry about layout or style. Just make sure that your HTML is well structured and will give you a good foundation to work with when we jump into CSS next week!
+	Using your annotated comps and the site template from our blog's Resources page, create your HTML. You can use placeholder text, but put in real text wherever possible. By next week you'll want your HTML finished and a good chunk of your CSS done. We don't have class on Wednesday, so let's make our time count!
 
 
 2. **Make a "home page" for your PSU web space**
 
-	Create an index.html file to put in your public_html folder on the web server. It doesn't have to be styled--you can if you want--but make sure that all of the sites you've made until now are represented on this page and that each link works. Mine looks like this: [http://web.pdx.edu/~thines/](http://web.pdx.edu/~thines/) . It took me about 30 seconds to make that, and that's all you have to spend to make your's too.
+	Create an index.html file to put in your public_html folder on the web server. It doesn't have to be styled--you can if you want--but make sure that all of the sites you've made until now are represented on this page and that each link works. Mine looks like this: [http://web.pdx.edu/~thines/](http://web.pdx.edu/~thines/) . It took me about 30 seconds to make that, and that's all you have to spend to make yours too.
 
+
+3. **Do CSS Diner**
+
+	Do all the exercises at [CSS Diner](http://flukeout.github.io/) and post a screenshot of the final page to the blog. Don't worry; it's fun!
 
 
 

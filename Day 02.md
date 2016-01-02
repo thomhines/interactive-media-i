@@ -32,9 +32,8 @@ Class
 ### Housekeeping
 - Have all students log into WP and update their user names
 - Install Chrome, because it's the best
-- Create .htaccess file and add this line to prevent Google from indexing sites:
 
-		Header set X-Robots-Tag "noindex, nofollow"
+- Have all students put this [.htaccess](http://teaching.thomhines.com/resources/htaccess) file in their public_html folders. **Don't forget to add a "." to the beginning of the file after it's uploaded to the server!**
 
 
 - Questions?
@@ -54,7 +53,10 @@ Use keynote presentation for Day 2
 
 Also worth mentioning:
 - [HTML Validator](http://validator.w3.org/)
-- Coda built-in validator!
+- Plugins
+	- [Interactive Linter](https://github.com/MiguelCastillo/Brackets-InteractiveLinter) - It validates HTML/CSS/etc.
+	- [Beautify plugin](https://github.com/drewhamlett/brackets-beautify)
+	- [Brackets icons plugin](https://github.com/ivogabe/Brackets-Icons)
 
 
 
@@ -103,12 +105,12 @@ Let students start researching Project 1 (getting text content, images, etc.) wh
 HW
 ---------------------------------------
 
-1. Create .htaccess file and add this line to prevent Google from indexing sites:
+1. **Make the Web Server Better**
+
+	Upload this [.htaccess](http://teaching.thomhines.com/resources/htaccess) file to your public_html folder to prevent Google from indexing your site. **Don't forget to add a "." to the beginning of the file after it's uploaded to the server!**
 	
-		Header set X-Robots-Tag "noindex, nofollow"
 
-
-1. **Update Your 5-Page Narrative**
+2. **Update Your 5-Page Narrative**
 
 	Update your 5-page linear narrative site to be valid HTML *(make sure it [validates](http://validator.w3.org/)!)*. This means you will need to add the proper tags in the <head> section, the <doctype> tag, and ensure that all of your tags are used correctly (including closing tags!). And don't forget to add the `alt` attribute to all of your images (eg. `<img src="funnypic.jpg" alt="a brief description of image">`). 
 
@@ -124,4 +126,18 @@ HW
 
 	Begin research on the subject for our first project. Again, the site you make should be about a "set" of four things. This could be anything from the four members of Led Zeppelin, to four contemporary painters, to your four favorite types of Japanese candies. They should all have something in common, but easy enough to tell apart. Like "[The Many Faces of Alan Rickman](http://themanyfacesof.com/alan-rickman/)", you want people to see a pattern, but still have a sense that there are important differences in style and content.
 
-	After you've picked a topic, start collecting images, text, and consider what you want to include as meta data about your subjects. **Post your content and images to the blog. *AND* send an email to art341w15-group@pdx.edu and let the rest of the class know what you plan to make your site about.** 
+	After you've picked a topic, start collecting images, text, and consider what you want to include as meta data about your subjects. **Post your content and images to the blog. *AND* send an email to art341f15-group@pdx.edu and let the rest of the class know what you plan to make your site about.** 
+
+5. **Codecademy Extra Credit**
+
+	Did you miss class? Were you a little sleepy or was I a little boring when I talked about HTML? Did you try really hard but still want to review the material? Good news! If you do the "HTML Basics" lesson in the [Web track of Codecademy](https://www.codecademy.com/learn/web), I'll give you a very small amount of extra credit! To get the credit, post a screen shot of the finished lesson to the blog.
+
+
+
+#### Project 1 Student Examples
+- [Many Faces of Alan Rickman](http://themanyfacesof.com/alan-rickman/)
+- [Kirby of the Stars](http://web.pdx.edu/~chereea/kirby/index.html)
+- [Batman: Ally or Foe?](http://web.pdx.edu/~mml2/batman_web/)
+- [Pokemon](http://web.pdx.edu/~alan4/HRNZ341PRJ1/bulbasaur.html)
+- [Josh Doll's Shoes](http://web.pdx.edu/~joshdoll/shoes/)
+- [The Website About Nothing](http://web.pdx.edu/~phillip2/websiteaboutnothing/index.html)

@@ -81,13 +81,24 @@ Hey all,
 We pretty much only have this week and next week to do ALL of the code for Project 1, so your goal for next class is to be done with design and ready to move to development (programming). We'll be doing annotated comps next class, so make sure you don't forget to print your designs!
 
 
-1. **Refine Designs (All 5 Pages)**
-	
-	Take what we talked about in class today and keep pushing your work. Pick one direction and start to nail down your design decisions. Feel free to experiment a little, but start to hone in on the final form. You can always tweak things later if you aren't happy with something, but the better it looks now, the less of a headache it will be to make your web files. Project 1 is due in two weeks, so PUSH IT.
+1. Another Set of Wireframes
 
-	If you haven't already, expand your designs so that you have a design for each of your five pages. 
+	Before refining your final comps, Expand and build wireframes for all 5 pages using the best Information Architecture and compositions from your initial design directions. Think about ways you can make each page unique, but still using the same overarching patterns.
+
+1. **Refine Designs (At Least 3 Pages)**
+	
+	Take what we talked about in class today and keep pushing your work. Pick one direction and start to nail down your design decisions. Feel free to experiment a little, but start to hone in on the final form. The reason you're making three pages is so you can show how pages are similar, and yet different, from one or your Project 1 items to another. You can always tweak things later if you aren't happy with something, but the better it looks now, the less of a headache it will be to make your web files. Project 1 is due in two weeks, so PUSH IT.
 
 
 2. **Print Your Site** 	
 	
 	Come to class with your designs printed, one sheet per web page. Black and white is fine, and they don't have to be huge, but you'll want plenty of room to mark it up and take notes on these print-outs. 
+
+
+And as promised here are some Project 1 Student Examples:
+- [Many Faces of Alan Rickman](http://themanyfacesof.com/alan-rickman/)
+- [Kirby of the Stars](http://web.pdx.edu/~chereea/kirby/index.html)
+- [Batman: Ally or Foe?](http://web.pdx.edu/~mml2/batman_web/)
+- [Pokemon](http://web.pdx.edu/~alan4/HRNZ341PRJ1/bulbasaur.html)
+- [Josh Doll's Shoes](http://web.pdx.edu/~joshdoll/shoes/)
+- [The Website About Nothing](http://web.pdx.edu/~phillip2/websiteaboutnothing/index.html)

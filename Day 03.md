@@ -1,4 +1,4 @@
-ART 341 - Day 3
+Day 3
 =======================================
 
 1. CSS Basics presentation
@@ -9,8 +9,8 @@ ART 341 - Day 3
 
 PREP
 ---------------------------------------
-- Print out tons of [sketchboards](http://teaching.thomhines.com/resources/sketchboard_multi.pdf) for students to fill out in class
-- Post [CSS Demo Template](http://teaching.thomhines.com/resources/html_template_starting_css_empty.zip), [CSS Demo Template (Completed)](http://teaching.thomhines.com/resources/html_template_starting_css.zip) and [HTML Template v1](http://teaching.thomhines.com/resources/html_template_v1.zip) to Resources page
+- Print out tons of [sketchboards](http://teaching.thomhines.com/resources/sketchboard_multi.pdf) for students to fill out in class or just bring blank sheets of paper for people to write on.
+- Post [CSS Demo Template](http://teaching.thomhines.com/resources/Day%203%20Copy%20Comp%20Files.zip) and [HTML Template v1](http://teaching.thomhines.com/resources/html_template_v1.zip) to Resources page
 - Post [CSS Basics Presentation](http://teaching.thomhines.com/resources/CSS%20Basics%20Presentation.pdf) to resources page
 - Load up links in a browser
 
@@ -49,10 +49,11 @@ Go through Presentation
 
 
 
-### Break
+#### Break
 
 
-
+### Brackets Plugins
+- [Brackets Css Color Preview](https://github.com/cmgddd/Brackets-css-color-preview)
 
 
 ### Wireframes tutorial
@@ -121,23 +122,27 @@ Start with [Sketchboards](http://www.adaptivepath.com/ideas/sketchboards-discove
 HW
 ---------------------------------------
 
-1. **POST RESEARCH CONTENT**
+1. **Post Research Content**
 
 	If you haven't done so already, make sure to post the HW from last week. If you didn't post more than pictures, please fill in the text content a bit more in your WordPress post.
 
 
-2. **MAKE WIREFRAMES** 	
+2. **Wireframes** 	
 
-	I would like to see 3 SETS of wireframes from your site. Each wireframe set should include at least 2 pages (Home and Details pages), but I would be very excited to see extra iterations and thoughts on how individual details pages could differ from one item to the next. And if you're not sure where to start, you can [check out what other people are doing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399). And don't forget to post these, too!
+	I would like to see 3 SETS of wireframes from your site. Each wireframe set should include at least 2 pages (Home and Details pages), but I would be very excited to see extra iterations and thoughts on how individual details pages could differ from one item to the next. And if you're not sure where to start, you can [check out what](http://speckyboy.com/2011/05/29/20-effective-examples-of-web-and-mobile-wireframe-sketches/) [other people are doing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399). And don't forget to post these, too!
+
+3. **Moodboards**
+
+	Either in pinterest, a PDF, or straight to the blog, post at least 20 pieces of inspiration for how you want to approach the style and design of your Project 1 site. Like wireframes, this can be a bit of a waste of time if you don't go into it with some intention. With each piece, think about what you like about it and what role it can play in your design. Things to consider: colors, layout, type treatments (we'll talk about using web fonts soon), navigation, composition, examples of other sites that do something relevant and wonderful, etc. 
 
 
-3. **CONVERT THIS DESIGN COMP TO HTML/CSS**
+4. **Convert this Design to HTML/CSS**
 
-	Create HTML/CSS to mimic as closely as possible the image below. Try your best to keep your CSS clean. I realize this is your first time working with CSS, but the harder you work on it now, the faster it will become easy. And by the end of the term, the stuff we talked about today will be **RIDICULOUSLY EASY**. Start on it early so you can email me if you have any questions. All background images are from [Subtle Patterns](http://subtlepatterns.com/), but feel free to use any background patterns you'd like. Post the URL of your page to the blog, along with a screenshot of your site in action!
+	Create HTML/CSS to mimic as closely as possible the image below. Try your best to keep your CSS clean. I realize this is your first time working with CSS, but the harder you work on it now, the faster it will become easy. And by the end of the term, the stuff we talked about today will be **RIDICULOUSLY EASY**. Start on it early so you can email me if you have any questions. All background images are from [Subtle Patterns](http://subtlepatterns.com/). Post the URL of your page to the blog, along with a screenshot of your site in action!
 	
-	*Include image of Class 3 Copy Comp.png*
+	![Copy This Comp](http://teaching.thomhines.com/resources/Day%203%20Copy%20Comp%20HW.png)
 
 
-4. ***!!!! EXTRA CREDIT !!!!***
+5. **Codecademy EXTRA CREDIT !!!!***
 
-	This is completely optional and not for a whole heck of a lot of points, but it's certainly worth the time (You have until next week to get this done). Complete the HTML Basics course in the Web Fundamentals track on Codecademy. In order to get credit for this, post a screenshot of the Web Fundamentals page (including your little picture at the top) to the blog after you're done.
+	This is completely optional and not for a whole heck of a lot of points, but it's certainly worth the time if you want to brush up on HTML basics. Complete the "CSS: An Overview" course in the [Web Fundamentals track on Codecademy](https://www.codecademy.com/learn/web). Like we did last week, in order to get credit for this, post a screenshot of the Web Fundamentals page (including your little picture at the top) to the blog after you're done.

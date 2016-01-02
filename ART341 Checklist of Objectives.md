@@ -91,6 +91,7 @@ Miscellaneous
 ----------------------------
 - Web Design Process 
 	- objectives, flow chart, wireframes, mood boards, roughs, comps, annotated comps, code, test
+- Image Sprites*
 - Firebug
 	- Selector Tool
 	- HTML/CSS Changes
@@ -117,5 +118,5 @@ Miscellaneous
 	- Designing for breakpoints
 	- Media Queries
 	- device width (<meta name="viewport" content="width=device-width" />)
-- Coda Plugins*
+- Plugins*
 

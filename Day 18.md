@@ -1,4 +1,4 @@
-ART 341 - Day 18
+Day 18
 =======================
 
 1. Small Group Crits
@@ -101,4 +101,22 @@ HW
 3. **HTML/CSS**
 
 	Starting from the annotated comp, turn your design into some working code. Try your best to get your HTML finished by Thursday (you can always change it later), and get as far as you can on your CSS. We have less than two weeks before these have to be completely finished, so if you have plans to use jQuery or other tricky moves, time is very limited. Also, make sure to post a link to the blog and add Project 3 to your pdx.edu landing page!
+
+
+Fall 2015
+---------
+
+Hey all,
+
+For those of you who weren't in class today, I posted jQuery Plugin Demo files to the blog, including the completed version to see how to add a slideshow to a page and change the slider settings. If you have any questions about it or using jquery plugins in general ask one of your classmates or send them to the group and we'll get you squared away!
+
+Otherwise, the main thing I want you all to work on this weekend is getting your HTML/CSS started for Project 3. Since we're starting from designs that are already complete, this shouldn't be too difficult. Make sure to create annotated comps first (which you should post to the blog and bring with you every day of class)! 
+
+This project is due Tues. Dec. 8 by the end of the day, so you have almost two weeks, but we only have two more class sessions to work on it in class, so PUSH IT!
+
+Have a great holiday all! I'm thankful for the fact that you guys are so cool.
+
+PEACE OUT!
+
+Thom
 

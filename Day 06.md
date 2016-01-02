@@ -40,6 +40,9 @@ Download New [HTML Template](http://teaching.thomhines.com/resources/html_templa
 	- Drop Shadow
 	- Transitions
 
+- Brackets Plugins
+	- [SFTP Upload](https://github.com/bigeyex/brackets-sftp-upload)
+	- [autoprefixer](https://github.com/mikaeljorhult/brackets-autoprefixer)
 
 
 ### Designing for the web in Illustrator
@@ -84,3 +87,7 @@ HW
 2. **HTML & CSS**
 	
 	By next class, you should have the HTML done for all 5 of your pages. Again, nothing is fixed in stone, but it should be at a state where every piece of content in your comps are represented in your HTML file. Also, your CSS should be about 80% done. By this, I mean the general layout should be in place, and basic styles should be set. Your site should pretty closely resemble your design comps. After this stage, we can focus solely on refinement and making sure everything is perfect and complete.
+
+3. Codecademy
+	
+	I offered this in class, but feel free to go ahead with any of the HTML/CSS or jQuery codecademy lessons. I'll give you extra credit if you post the completed lessons to the blog, but don't do it just for the extra credit! You'll be much better off spending the time on Project 1 or making up any missing assignments since the extra credit will be pretty minimal.

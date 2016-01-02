@@ -10,6 +10,12 @@ CLASS
 ### Work Session
 1-on-1 work time
 
+- Save for Web
+- Using background images
+	- background-image
+	- background-repeat
+	- background-size
+	- background-position
 
 
 
